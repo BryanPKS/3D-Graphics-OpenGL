@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\zip\source\repos\openGL\openGL\main.cpp(25,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\zip\source\repos\openGL\openGL\main.cpp(49,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\zip\source\repos\openGL\openGL\main.cpp(49,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\zip\source\repos\openGL\openGL\main.cpp(56,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\zip\source\repos\openGL\openGL\main.cpp(57,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\zip\source\repos\openGL\openGL\main.cpp(58,13): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\zip\source\repos\openGL\openGL\main.cpp(63,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\zip\source\repos\openGL\openGL\main.cpp(64,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  openGL.vcxproj -> C:\Users\zip\source\repos\openGL\Debug\openGL.exe
